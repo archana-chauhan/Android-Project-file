@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/linear_layout"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.mac.practicaleight.MainActivity">
+
+    <Button
+        android:id="@+id/blue_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Blue" />
+
+    <Button
+        android:id="@+id/yellow_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Yellow" />
+
+    <Button
+        android:id="@+id/green_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Green" />
+
+</LinearLayout>

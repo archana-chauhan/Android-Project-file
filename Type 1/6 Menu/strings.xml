@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">6 Menu</string>
+    <string name="Option1">Pikachu</string>
+    <string name="Option2">Raichu</string>
+    <string name="Option3">Pichu</string>
+    <string name="Option4">Togepi</string>
+    <string name="Option5">Charmender</string>
+    <string name="Option6">Charlizard</string>
+</resources>
